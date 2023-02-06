@@ -1,2 +1,4 @@
-x=input("enter name: ")
-print(x)
+x=30
+def func():
+    print(x+90)
+func()
